@@ -16,6 +16,7 @@ Three ways of using import
 
 """
 
-#TODO: Assignment 1: Create a calculator package. It should have add, substract, multiply & divide.
+#TODO: Assignment 1: Create a calculator package. It should have add, substract, multiply & divide functions in a single file
 #TODO: Call these functions from another file to display operations
 
+#TODO: Assignment 2: Use same functions across different files and use them
